@@ -1,48 +1,44 @@
 # IPL-Data-Analysis-By-JT
 IPL 2008-2018 Analysis Dashboard  Track winners, runners-up, top players, match outcomes, toss decisions, and venue stats. Explore IPL trends and insights.
-<!DOCTYPE html>
-<html>
-<head>
-    <title>IPL 2008-2018 Analysis Dashboard</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
+<br>
+    IPL 2008-2018 Analysis Dashboard
+    
+<br>
 
-        h1 {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <h1>IPL 2008-2018 Analysis Dashboard</h1>
+Description:
 
-    <p>This dashboard comprehensively overviews the Indian Premier League (IPL) from 2008 to 2018. It includes insights into:</p>
+<br>
 
-    <ul>
-        <li>Winners and Runners-up</li>
-        <li>Player of the Series</li>
-        <li>Man of the Match</li>
-        <li>Batting and Fielding Performance</li>
-        <li>Toss Decisions</li>
-        <li>Title Winners</li>
-        <li>Top Venues</li>
-    </ul>
+This Excel dashboard comprehensively overviews the Indian Premier League (IPL) from 2008 to 2018. It includes insights into:
 
-    <h2>Usage</h2>
+<br>
 
-    <ol>
-        <li>Download the Excel file from this repository.</li>
-        <li>Open the file and enter the password to unlock the worksheets.</li>
-        <li>Start exploring the dashboard.</li>
-    </ol>
+Winners and Runners-up: Track the champions and runner-ups of each season.
+Player of the Series: Identify the performers who clinched the Player of the Series award.
+Man of the Match: Recognize the brilliance of the Man of the Match awardees.
+Batting and Fielding Performance: Analyze how teams fared when batting first and fielding first.
+Toss Decisions: Evaluate the impact of toss decisions on match outcomes.
+Title Winners: Showcase the teams that have clinched multiple IPL titles.
+Top Venues: Identify the venues that have hosted the most matches and witnessed the highest winning percentages.
 
-    <p><strong>Author:</strong> Jitender Tehilyani</p>
-    <p><strong>Password:</strong> 4554</p>
+<br>
+Usage:
 
-    <h2>Dependencies</h2>
+<br>
+Download the Excel file from this repository.
+Open the file and enter the password to unlock the worksheets.
+Start exploring the dashboard.
 
-    <p>Microsoft Excel</p>
-</body>
-</html>
+<br>
+Author: Jitender Tehilyani.
+
+<br>
+
+Password: 4554
+
+<br>
+
+Dependencies:
+
+<br>
+Microsoft Excel
